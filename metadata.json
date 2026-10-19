@@ -1,0 +1,6 @@
+{
+  "name": "CivicEase",
+  "description": "Discover government schemes and public benefits in India with plain-language eligibility, actionable checklists, and an AI Scheme Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
